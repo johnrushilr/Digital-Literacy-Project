@@ -14,8 +14,11 @@ Task 3: HackerRank Certificate and Google Form quiz;
 Task 4: Professional emails and social media do's and don'ts checklist;
 Task 5: Case study on Phishing and prevention tips;
 
-- Google Form Link:-
+- Google Form Questions Link:-
 https://forms.gle/vBUHzAGE1EkkXnqr7
+
+- Google Form Responses Link:-
+https://docs.google.com/spreadsheets/d/11L3Qn-pkNQtqMQ33ViZSny7Nqlga1N4VqYXF2kih1YY/edit?resourcekey=&gid=182494680#gid=182494680
 
 - Conclusion:-
 This project on digital literacy helped me improve my understanding of digital tools and be responsible and aware of fraudulent activity online.
