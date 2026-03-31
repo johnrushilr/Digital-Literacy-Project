@@ -1,0 +1,18 @@
+Prevention Checklist for Online Safety
+
+Personal Safety
+- Never share OTPs with strangers
+- Always check for proper website URLs before entering your personal details
+- Avoid clicking links those are found to be suspicious
+- Use strong passwords (mix of upper and lowercases, numbers and symbols)
+- Enable two-factor authentication for logins
+
+Banking and UPI Safety
+- Verify UPI ID before sending money
+- Do not accept unknown payment requests
+- Do not click any link that may claim to give you money
+- Do not share your banking details with anybody else
+
+Crime Reporting Entities
+- National Cyber Crime Portal: https://cybercrime.gov.in
+- Helpline: 1930
