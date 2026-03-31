@@ -1,7 +1,8 @@
 ## Digital Literacy Portfolio
 
 Name: John Rushil P
- Registration Number: 25BHI10013
+
+Registration Number: 25BHI10013
 
 - Project Overview:-
 This repository contains my Digital Literacy Portfolio project, which covers digital awareness, online presence, collaboration tools, and cyber safety.
